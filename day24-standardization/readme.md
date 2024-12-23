@@ -19,3 +19,5 @@ Feature scaling is a technique used in machine learning to normalize or standard
 ### 28:22 - **When should you use Standardization?**
 - Standardization is generally preferred when the data follows a Gaussian distribution or when algorithms that assume normality, like linear regression or logistic regression, are used.
 - It’s also useful when you don’t know the exact range of your data in advance, as it doesn't bound the data to a specific range like normalization.
+
+
